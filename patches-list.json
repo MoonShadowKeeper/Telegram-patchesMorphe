@@ -1,5 +1,5 @@
 {
-  "version": "1.4.0-dev.43",
+  "version": "1.4.0-dev.44",
   "patches": [
     {
       "name": "Anti-delete messages",
@@ -230,6 +230,18 @@
       "options": []
     },
     {
+      "name": "GMS sign-in bypass",
+      "description": "Forces SMS-based OTP verification instead of GMS SmsRetriever, fixing sign-in on re-signed APKs.",
+      "use": true,
+      "dependencies": [],
+      "compatiblePackages": {
+        "com.truecaller": [
+          "26.10.6"
+        ]
+      },
+      "options": []
+    },
+    {
       "name": "Hide Assistant tab",
       "description": "Hides the Assistant tab from the bottom navigation bar.",
       "use": true,
@@ -339,7 +351,7 @@
     },
     {
       "name": "Proton VPN Premium",
-      "description": "Unlocks premium UI, removes upsells, and shows only free servers.",
+      "description": "Unlocks premium UI features: removes upsells, enables NetShield ad-blocker, hides upgrade prompts, shows free servers with premium interface (Plus badge, no speed limits display, all feature flags enabled).",
       "use": true,
       "dependencies": [],
       "compatiblePackages": {

@@ -1,3 +1,10 @@
+# [1.4.0-dev.44](https://github.com/Paresh-Maheshwari/paresh-patches/compare/v1.4.0-dev.43...v1.4.0-dev.44) (2026-05-07)
+
+
+### Bug Fixes
+
+* **truecaller:** GMS sign-in bypass for re-signed APKs ([1b5a321](https://github.com/Paresh-Maheshwari/paresh-patches/commit/1b5a3214310cf5dfe7a3855794da64a3896c2800))
+
 # [1.4.0-dev.43](https://github.com/Paresh-Maheshwari/paresh-patches/compare/v1.4.0-dev.42...v1.4.0-dev.43) (2026-05-04)
 
 
