@@ -1,3 +1,10 @@
+## [1.15.2](https://gitlab.com/Paresh-Maheshwari/paresh-patches/compare/v1.15.1...v1.15.2) (2026-05-08)
+
+
+### Bug Fixes
+
+* update PatchListGenerator to latest template version ([1ea17b3](https://gitlab.com/Paresh-Maheshwari/paresh-patches/commit/1ea17b3976d1dc590c9fb1a9ff45e9b47fcb5eb3))
+
 ## [1.15.1](https://gitlab.com/Paresh-Maheshwari/paresh-patches/compare/v1.15.0...v1.15.1) (2026-05-08)
 
 
