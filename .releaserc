@@ -19,7 +19,7 @@
       "@MorpheApp/changelog", {
         "releaseJson": {
           "path": "patches-bundle.json",
-          "downloadUrlTemplate": "https://github.com/${owner}/${repo}/releases/download/v${version}/patches-${version}.mpp",
+          "downloadUrlTemplate": "https://gitlab.com/Paresh-Maheshwari/paresh-patches/-/releases/v${version}/downloads/patches-${version}.mpp",
           "signatureUrlTemplate": ""
         }
       }
@@ -44,14 +44,14 @@
       }
     ],
     [
-      "@semantic-release/github",
+      "@semantic-release/gitlab",
       {
         "assets": [
           {
-            "path": "patches/build/libs/patches-!(*sources*|*javadoc*).mpp?(.asc)"
+            "path": "patches/build/libs/patches-!(*sources*|*javadoc*).mpp?(.asc)",
+            "label": "patches-${nextRelease.version}.mpp"
           }
-        ],
-        "successComment": false
+        ]
       }
     ]
   ]
