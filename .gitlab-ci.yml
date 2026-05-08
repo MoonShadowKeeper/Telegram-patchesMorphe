@@ -3,16 +3,20 @@ stages:
 
 release:
   stage: release
-  image: eclipse-temurin:17-jdk
+  image: thyrlian/android-sdk:latest
   rules:
     - if: $CI_COMMIT_BRANCH == "main"
     - if: $CI_COMMIT_BRANCH == "dev"
     - if: $CI_PIPELINE_SOURCE == "web"
+  variables:
+    ANDROID_HOME: "/opt/android-sdk"
   before_script:
     - mkdir -p ~/.gradle
     - echo "gpr.user=${GPR_USER}" >> ~/.gradle/gradle.properties
     - echo "gpr.key=${GPR_KEY}" >> ~/.gradle/gradle.properties
-    - apt-get update && apt-get install -y nodejs npm git jq
+    - yes | sdkmanager --licenses || true
+    - sdkmanager "platforms;android-36" "build-tools;36.0.0"
+    - apt-get update && apt-get install -y nodejs npm jq
   script:
     - ./gradlew :patches:buildAndroid :patches:generatePatchesList
     - npm install
