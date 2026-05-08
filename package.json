@@ -1,4 +1,7 @@
 {
+  "scripts": {
+    "postinstall": "sed -i 's/github\\\\.com/(?:github|gitlab)\\\\.com/' node_modules/@MorpheApp/changelog/lib/prepare.js"
+  },
   "devDependencies": {
     "@MorpheApp/changelog": "git+https://github.com/MorpheApp/changelog.git#bundle",
     "@semantic-release/exec": "^7.1.0",
