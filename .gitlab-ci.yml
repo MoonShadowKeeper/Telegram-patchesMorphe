@@ -16,7 +16,9 @@ release:
     - echo "gpr.key=${GPR_KEY}" >> ~/.gradle/gradle.properties
     - yes | sdkmanager --licenses || true
     - sdkmanager "platforms;android-36" "build-tools;36.0.0"
-    - apt-get update && apt-get install -y nodejs npm jq
+    - apt-get update && apt-get install -y curl jq
+    - curl -fsSL https://deb.nodesource.com/setup_20.x | bash -
+    - apt-get install -y nodejs
   script:
     - ./gradlew :patches:buildAndroid :patches:generatePatchesList
     - npm install
