@@ -1,5 +1,5 @@
 {
-  "version": "1.4.0-dev.44",
+  "version": "1.4.0-dev.1",
   "patches": [
     {
       "name": "Anti-delete messages",
@@ -333,6 +333,18 @@
       "compatiblePackages": {
         "com.markOne.ss_app": [
           "6.6"
+        ]
+      },
+      "options": []
+    },
+    {
+      "name": "Neutralize third-party SDKs",
+      "description": "Disables telemetry, ad, and tracking SDK initializations. Fixes #84.",
+      "use": true,
+      "dependencies": [],
+      "compatiblePackages": {
+        "com.truecaller": [
+          "26.10.6"
         ]
       },
       "options": []
