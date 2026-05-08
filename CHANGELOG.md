@@ -1,3 +1,13 @@
+## [1.15.1](https://gitlab.com/Paresh-Maheshwari/paresh-patches/compare/v1.15.0...v1.15.1) (2026-05-08)
+
+
+### Bug Fixes
+
+* add Android SDK to CI pipeline ([382a9a2](https://gitlab.com/Paresh-Maheshwari/paresh-patches/commit/382a9a2c501d9fecbfb1be9fac001a0f7d25a7a7))
+* add filepath to GitLab release asset for direct download URL ([b5d5b96](https://gitlab.com/Paresh-Maheshwari/paresh-patches/commit/b5d5b962e1a87f8b61e586e6fe55b45e72ca22fe))
+* patch changelog plugin to support GitLab URLs ([23c16c5](https://gitlab.com/Paresh-Maheshwari/paresh-patches/commit/23c16c56beb014f5cacaf25cb9dc34d95472b4e4))
+* use Node 20 for semantic-release ([7cac5d2](https://gitlab.com/Paresh-Maheshwari/paresh-patches/commit/7cac5d287e49631fe092ae14199376a7c5bb060d))
+
 # [1.15.0](https://github.com/Paresh-Maheshwari/paresh-patches/compare/v1.14.0...v1.15.0) (2026-04-29)
 
 
