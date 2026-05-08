@@ -49,7 +49,8 @@
         "assets": [
           {
             "path": "patches/build/libs/patches-!(*sources*|*javadoc*).mpp?(.asc)",
-            "label": "patches-${nextRelease.version}.mpp"
+            "label": "patches-${nextRelease.version}.mpp",
+            "filepath": "/patches-${nextRelease.version}.mpp"
           }
         ]
       }
