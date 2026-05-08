@@ -1,3 +1,10 @@
+# [1.4.0-dev.2](https://gitlab.com/Paresh-Maheshwari/paresh-patches/compare/v1.4.0-dev.1...v1.4.0-dev.2) (2026-05-08)
+
+
+### Bug Fixes
+
+* update PatchListGenerator to latest template version ([0f4aee0](https://gitlab.com/Paresh-Maheshwari/paresh-patches/commit/0f4aee08d350b61a52aabd9b736b1ef88e030294))
+
 # [1.4.0-dev.1](https://gitlab.com/Paresh-Maheshwari/paresh-patches/compare/v1.0.0-dev.1...v1.4.0-dev.1) (2026-05-08)
 
 
