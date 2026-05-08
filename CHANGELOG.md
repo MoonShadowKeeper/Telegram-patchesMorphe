@@ -1,3 +1,10 @@
+# [1.4.0-dev.1](https://gitlab.com/Paresh-Maheshwari/paresh-patches/compare/v1.0.0-dev.1...v1.4.0-dev.1) (2026-05-08)
+
+
+### Bug Fixes
+
+* add filepath to GitLab release asset for direct download URL ([ac8c06c](https://gitlab.com/Paresh-Maheshwari/paresh-patches/commit/ac8c06c9e3fc32112b642378ff2fccecc44676e1))
+
 # 1.0.0-dev.1 (2026-05-08)
 
 
