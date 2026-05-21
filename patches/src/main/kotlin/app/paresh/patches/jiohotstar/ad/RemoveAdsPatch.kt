@@ -24,19 +24,8 @@ val removeAdsPatch = bytecodePatch(
             const-string p6, ""
         """)
 
-        // Global block: force E()Z to always return false (ads disabled)
-        GlobalAdsEnabledFingerprint.method.addInstructions(0, """
-            const/4 v0, 0x0
-            return v0
-        """)
-
         // Neuter live ad initializer to prevent Ad SDK engagement
         WatchLiveAdsInitFingerprint.method.addInstructions(0, """
-            return-void
-        """)
-
-        // Neuter live ad manager
-        LiveAdManagerFingerprint.method.addInstructions(0, """
             return-void
         """)
 
