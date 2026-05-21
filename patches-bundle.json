@@ -1,7 +1,7 @@
 {
-  "created_at": "2026-05-08T19:47:09",
-  "description": "# [1.4.0-dev.2](https://gitlab.com/Paresh-Maheshwari/paresh-patches/compare/v1.4.0-dev.1...v1.4.0-dev.2) (2026-05-08)\n\n\n### Bug Fixes\n\n* update PatchListGenerator to latest template version ([0f4aee0](https://gitlab.com/Paresh-Maheshwari/paresh-patches/commit/0f4aee08d350b61a52aabd9b736b1ef88e030294))",
-  "download_url": "https://gitlab.com/Paresh-Maheshwari/paresh-patches/-/releases/v1.4.0-dev.2/downloads/patches-1.4.0-dev.2.mpp",
+  "created_at": "2026-05-21T15:25:00",
+  "description": "# [1.4.0-dev.3](https://gitlab.com/Paresh-Maheshwari/paresh-patches/compare/v1.4.0-dev.2...v1.4.0-dev.3) (2026-05-21)\n\n\n### Features\n\n* **jiohotstar:** update patches for v26.04.27.10 - use stable string-based fingerprints ([8f2a37d](https://gitlab.com/Paresh-Maheshwari/paresh-patches/commit/8f2a37dbe1a6365dfb602cea1a0c9aba7e38fac7))\n* migrate to GitLab - remove GitHub templates, add GitLab issue templates, update README ([fe92c3d](https://gitlab.com/Paresh-Maheshwari/paresh-patches/commit/fe92c3df117e005182169d11481d1d91f794a1b6))",
+  "download_url": "https://gitlab.com/Paresh-Maheshwari/paresh-patches/-/releases/v1.4.0-dev.3/downloads/patches-1.4.0-dev.3.mpp",
   "signature_download_url": "",
-  "version": "1.4.0-dev.2"
+  "version": "1.4.0-dev.3"
 }

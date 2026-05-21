@@ -1,3 +1,11 @@
+# [1.4.0-dev.3](https://gitlab.com/Paresh-Maheshwari/paresh-patches/compare/v1.4.0-dev.2...v1.4.0-dev.3) (2026-05-21)
+
+
+### Features
+
+* **jiohotstar:** update patches for v26.04.27.10 - use stable string-based fingerprints ([8f2a37d](https://gitlab.com/Paresh-Maheshwari/paresh-patches/commit/8f2a37dbe1a6365dfb602cea1a0c9aba7e38fac7))
+* migrate to GitLab - remove GitHub templates, add GitLab issue templates, update README ([fe92c3d](https://gitlab.com/Paresh-Maheshwari/paresh-patches/commit/fe92c3df117e005182169d11481d1d91f794a1b6))
+
 # [1.4.0-dev.2](https://gitlab.com/Paresh-Maheshwari/paresh-patches/compare/v1.4.0-dev.1...v1.4.0-dev.2) (2026-05-08)
 
 
