@@ -1,3 +1,10 @@
+# [1.4.0-dev.4](https://gitlab.com/Paresh-Maheshwari/paresh-patches/compare/v1.4.0-dev.3...v1.4.0-dev.4) (2026-05-21)
+
+
+### Features
+
+* add SD Maid SE Pro unlock patch ([e1e1f2c](https://gitlab.com/Paresh-Maheshwari/paresh-patches/commit/e1e1f2c11698435b382351b1eaea829d72de3314))
+
 # [1.4.0-dev.3](https://gitlab.com/Paresh-Maheshwari/paresh-patches/compare/v1.4.0-dev.2...v1.4.0-dev.3) (2026-05-21)
 
 

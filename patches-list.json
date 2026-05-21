@@ -1,5 +1,5 @@
 {
-  "version": "1.4.0-dev.3",
+  "version": "1.4.0-dev.4",
   "patches": [
     {
       "name": "Anti-delete messages",
@@ -923,6 +923,31 @@
           "targets": [
             {
               "version": "26.10.6",
+              "isExperimental": false,
+              "minSdk": null,
+              "description": null
+            }
+          ]
+        }
+      ],
+      "options": []
+    },
+    {
+      "name": "Unlock Pro",
+      "description": "Unlocks SD Maid SE Pro features — full history, scheduled operations, extra options, custom rules.",
+      "default": true,
+      "dependencies": [],
+      "compatiblePackages": [
+        {
+          "packageName": "eu.darken.sdmse",
+          "name": "SD Maid SE",
+          "description": null,
+          "apkFileType": "APKM",
+          "appIconColor": "#4CAF50",
+          "signatures": null,
+          "targets": [
+            {
+              "version": "1.7.3-rc0",
               "isExperimental": false,
               "minSdk": null,
               "description": null
