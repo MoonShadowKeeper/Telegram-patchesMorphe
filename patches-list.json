@@ -1,5 +1,5 @@
 {
-  "version": "1.15.2",
+  "version": "1.16.0",
   "patches": [
     {
       "name": "Anti-delete messages",
@@ -141,7 +141,7 @@
           "signatures": null,
           "targets": [
             {
-              "version": "26.04.13.3",
+              "version": "26.04.27.10",
               "isExperimental": false,
               "minSdk": null,
               "description": null
@@ -341,7 +341,7 @@
           "signatures": null,
           "targets": [
             {
-              "version": "26.04.13.3",
+              "version": "26.04.27.10",
               "isExperimental": false,
               "minSdk": null,
               "description": null
@@ -366,7 +366,7 @@
           "signatures": null,
           "targets": [
             {
-              "version": "26.04.13.3",
+              "version": "26.04.27.10",
               "isExperimental": false,
               "minSdk": null,
               "description": null
@@ -391,7 +391,7 @@
           "signatures": null,
           "targets": [
             {
-              "version": "26.04.13.3",
+              "version": "26.04.27.10",
               "isExperimental": false,
               "minSdk": null,
               "description": null
@@ -466,7 +466,7 @@
           "signatures": null,
           "targets": [
             {
-              "version": "26.04.13.3",
+              "version": "26.04.27.10",
               "isExperimental": false,
               "minSdk": null,
               "description": null
@@ -666,7 +666,7 @@
           "signatures": null,
           "targets": [
             {
-              "version": "26.04.13.3",
+              "version": "26.04.27.10",
               "isExperimental": false,
               "minSdk": null,
               "description": null
@@ -716,7 +716,7 @@
           "signatures": null,
           "targets": [
             {
-              "version": "26.04.13.3",
+              "version": "26.04.27.10",
               "isExperimental": false,
               "minSdk": null,
               "description": null

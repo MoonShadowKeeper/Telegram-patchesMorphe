@@ -1,3 +1,10 @@
+# [1.16.0](https://gitlab.com/Paresh-Maheshwari/paresh-patches/compare/v1.15.2...v1.16.0) (2026-05-21)
+
+
+### Features
+
+* **jiohotstar:** update patches for v26.04.27.10 - use stable string-based fingerprints ([bee0cb9](https://gitlab.com/Paresh-Maheshwari/paresh-patches/commit/bee0cb98ccf04f895637c81df7b1d8faa1cc79e9))
+
 ## [1.15.2](https://gitlab.com/Paresh-Maheshwari/paresh-patches/compare/v1.15.1...v1.15.2) (2026-05-08)
 
 
