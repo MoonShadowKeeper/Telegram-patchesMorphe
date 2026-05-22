@@ -1,7 +1,7 @@
 {
-  "created_at": "2026-05-21T16:26:48",
-  "description": "# [1.4.0-dev.4](https://gitlab.com/Paresh-Maheshwari/paresh-patches/compare/v1.4.0-dev.3...v1.4.0-dev.4) (2026-05-21)\n\n\n### Features\n\n* add SD Maid SE Pro unlock patch ([e1e1f2c](https://gitlab.com/Paresh-Maheshwari/paresh-patches/commit/e1e1f2c11698435b382351b1eaea829d72de3314))",
-  "download_url": "https://gitlab.com/Paresh-Maheshwari/paresh-patches/-/releases/v1.4.0-dev.4/downloads/patches-1.4.0-dev.4.mpp",
+  "created_at": "2026-05-22T16:51:30",
+  "description": "# [1.4.0-dev.5](https://gitlab.com/Paresh-Maheshwari/paresh-patches/compare/v1.4.0-dev.4...v1.4.0-dev.5) (2026-05-22)\n\n\n### Features\n\n* add Alarmo premium unlock patch ([9e32347](https://gitlab.com/Paresh-Maheshwari/paresh-patches/commit/9e323478e36b0accf98a77ec7c51964de35c0664))",
+  "download_url": "https://gitlab.com/Paresh-Maheshwari/paresh-patches/-/releases/v1.4.0-dev.5/downloads/patches-1.4.0-dev.5.mpp",
   "signature_download_url": "",
-  "version": "1.4.0-dev.4"
+  "version": "1.4.0-dev.5"
 }

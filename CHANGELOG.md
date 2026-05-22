@@ -1,3 +1,10 @@
+# [1.4.0-dev.5](https://gitlab.com/Paresh-Maheshwari/paresh-patches/compare/v1.4.0-dev.4...v1.4.0-dev.5) (2026-05-22)
+
+
+### Features
+
+* add Alarmo premium unlock patch ([9e32347](https://gitlab.com/Paresh-Maheshwari/paresh-patches/commit/9e323478e36b0accf98a77ec7c51964de35c0664))
+
 # [1.4.0-dev.4](https://gitlab.com/Paresh-Maheshwari/paresh-patches/compare/v1.4.0-dev.3...v1.4.0-dev.4) (2026-05-21)
 
 
