@@ -1,3 +1,10 @@
+# [1.17.0-dev.2](https://gitlab.com/Paresh-Maheshwari/paresh-patches/compare/v1.17.0-dev.1...v1.17.0-dev.2) (2026-05-24)
+
+
+### Features
+
+* add Lumina Wallpapers premium unlock patch ([60570d6](https://gitlab.com/Paresh-Maheshwari/paresh-patches/commit/60570d68bac43196bb4d8a527e77fd5d83d0646b))
+
 # [1.17.0-dev.1](https://gitlab.com/Paresh-Maheshwari/paresh-patches/compare/v1.16.0...v1.17.0-dev.1) (2026-05-23)
 
 

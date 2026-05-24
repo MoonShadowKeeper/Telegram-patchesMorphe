@@ -1,5 +1,5 @@
 {
-  "version": "1.17.0-dev.1",
+  "version": "1.17.0-dev.2",
   "patches": [
     {
       "name": "Anti-delete messages",
@@ -642,6 +642,31 @@
           "targets": [
             {
               "version": "12.6.4",
+              "isExperimental": false,
+              "minSdk": null,
+              "description": null
+            }
+          ]
+        }
+      ],
+      "options": []
+    },
+    {
+      "name": "Lumina Premium",
+      "description": "Unlocks all premium wallpapers and categories.",
+      "default": true,
+      "dependencies": [],
+      "compatiblePackages": [
+        {
+          "packageName": "com.lumina.wallpapers",
+          "name": "Lumina Walls",
+          "description": null,
+          "apkFileType": "XAPK",
+          "appIconColor": "#6200EE",
+          "signatures": null,
+          "targets": [
+            {
+              "version": "1.0.2.3",
               "isExperimental": false,
               "minSdk": null,
               "description": null
