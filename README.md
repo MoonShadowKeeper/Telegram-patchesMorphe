@@ -17,7 +17,7 @@ Custom [Morphe](https://morphe.software) patches for unlocking premium features 
 ## Patches
 
 <!-- PATCHES_START EXPANDED -->
-> **[v1.17.0-dev.2](https://github.com/Paresh-Maheshwari/paresh-patches/releases/tag/v1.17.0-dev.2)**&nbsp;&nbsp;•&nbsp;&nbsp;`dev`&nbsp;&nbsp;•&nbsp;&nbsp;41 patches total
+> **[v1.17.0-dev.3](https://github.com/Paresh-Maheshwari/paresh-patches/releases/tag/v1.17.0-dev.3)**&nbsp;&nbsp;•&nbsp;&nbsp;`dev`&nbsp;&nbsp;•&nbsp;&nbsp;42 patches total
 <details open>
 <summary>📦 Telegram&nbsp;&nbsp;•&nbsp;&nbsp;10 patches</summary>
 <br>
@@ -32,7 +32,7 @@ Custom [Morphe](https://morphe.software) patches for unlocking premium features 
 | [Anti-delete messages](#anti-delete-messages) | Prevents deleted messages from being removed locally. |  |
 | [Anti-disappearing media](#anti-disappearing-media) | Keeps view-once and self-destructing media viewable forever. |  |
 | [Bypass channel restrictions](#bypass-channel-restrictions) | Allows opening copyrighted, sensitive, and temporarily disabled channels. |  |
-| [Bypass content restrictions](#bypass-content-restrictions) | Allows copying, saving, forwarding, and screenshots from restricted channels. |  |
+| [Bypass content restrictions](#bypass-content-restrictions) | Allows saving from restricted channels. |  |
 | [Bypass integrity](#bypass-integrity) | Bypasses integrity check to allow login on patched app. |  |
 | [Disable auto update](#disable-auto-update) | Disables automatic app update checks. |  |
 | [Download speed boost](#download-speed-boost) | Increases download chunk size and max concurrent requests. |  |
@@ -205,6 +205,21 @@ Custom [Morphe](https://morphe.software) patches for unlocking premium features 
 | 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
 |----------|----------------|-----------|
 | [Mark Premium](#mark-premium) | Unlocks premium features and removes ads. |  |
+
+</details>
+
+<details open>
+<summary>📦 StarSense Explorer&nbsp;&nbsp;•&nbsp;&nbsp;1 patch</summary>
+<br>
+
+**🎯 Supported versions:**
+
+| 2.0.2.3 |
+| :---: |
+
+| 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
+|----------|----------------|-----------|
+| [StarSense Unlock](#starsense-unlock) | Bypasses the unlock code check to enable all features. |  |
 
 </details>
 
