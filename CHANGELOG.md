@@ -1,3 +1,49 @@
+# [1.17.0](https://gitlab.com/Paresh-Maheshwari/paresh-patches/compare/v1.16.0...v1.17.0) (2026-05-29)
+
+
+### Bug Fixes
+
+* add Android SDK to CI pipeline ([6e2a997](https://gitlab.com/Paresh-Maheshwari/paresh-patches/commit/6e2a997d849fd44c3178d44c01565e7f72a9531d))
+* add filepath to GitLab release asset for direct download URL ([ac8c06c](https://gitlab.com/Paresh-Maheshwari/paresh-patches/commit/ac8c06c9e3fc32112b642378ff2fccecc44676e1))
+* anti-delete only blocks incoming deletes, allows self-delete in groups ([025dbf9](https://gitlab.com/Paresh-Maheshwari/paresh-patches/commit/025dbf98b4afda7ebe96ba36567a0a7bbaaaf5da))
+* anti-delete works for both DMs and groups ([405a7d0](https://gitlab.com/Paresh-Maheshwari/paresh-patches/commit/405a7d0c916012bbbc64638c2e64b29e06a76cbe))
+* patch changelog plugin to support GitLab URLs ([98e46be](https://gitlab.com/Paresh-Maheshwari/paresh-patches/commit/98e46be6743547d439d9958b521fb9123fa7053d))
+* trigger dev release for Truecaller fixes ([548775b](https://gitlab.com/Paresh-Maheshwari/paresh-patches/commit/548775b8219f3a355f9fa6a0b0b80da3f5b286b7))
+* **truecaller:** GMS sign-in bypass for re-signed APKs ([1b5a321](https://gitlab.com/Paresh-Maheshwari/paresh-patches/commit/1b5a3214310cf5dfe7a3855794da64a3896c2800))
+* update gradle wrapper checksum ([ad15a57](https://gitlab.com/Paresh-Maheshwari/paresh-patches/commit/ad15a57e3f5a30906b68a5cd9e070e6ec64a3580))
+* update Node.js to 22.x for semantic-release compatibility ([a958e50](https://gitlab.com/Paresh-Maheshwari/paresh-patches/commit/a958e509c13f2470f84af23a4124bd4be5fbf003))
+* update PatchListGenerator to latest template version ([0f4aee0](https://gitlab.com/Paresh-Maheshwari/paresh-patches/commit/0f4aee08d350b61a52aabd9b736b1ef88e030294))
+* use Node 20 for semantic-release ([1495261](https://gitlab.com/Paresh-Maheshwari/paresh-patches/commit/1495261236cc3ad45295cdaf245a2f76c40fd8c0))
+* verify GitLab CI release pipeline ([fcdb8af](https://gitlab.com/Paresh-Maheshwari/paresh-patches/commit/fcdb8af32022ff518af30f1da3e36ecf420170ca))
+* verify GitLab release pipeline ([824a2a0](https://gitlab.com/Paresh-Maheshwari/paresh-patches/commit/824a2a0dada54efb3b890e40edec03828b705b11))
+
+
+### Features
+
+* add Alarmo premium unlock patch ([9e32347](https://gitlab.com/Paresh-Maheshwari/paresh-patches/commit/9e323478e36b0accf98a77ec7c51964de35c0664))
+* add anti-delete, anti-disappearing media and improve restriction bypass for Telegram ([a119f86](https://gitlab.com/Paresh-Maheshwari/paresh-patches/commit/a119f861ce7312f7ad2dcd03ef52e897fa7de290))
+* add CREX premium patch and Telegram channel bypass ([f728c41](https://gitlab.com/Paresh-Maheshwari/paresh-patches/commit/f728c4117f0f88058e7e9717821b1fe555151c2e))
+* add Eyecon Caller ID premium unlock ([c9e27e4](https://gitlab.com/Paresh-Maheshwari/paresh-patches/commit/c9e27e490ea3989ba225f55b1d003915e40390d2))
+* add JioHotstar patches ([5e8d9be](https://gitlab.com/Paresh-Maheshwari/paresh-patches/commit/5e8d9be5c2ec861dd7f05e1aca1fc3c0352c74a3))
+* add Lumina Wallpapers premium unlock patch ([60570d6](https://gitlab.com/Paresh-Maheshwari/paresh-patches/commit/60570d68bac43196bb4d8a527e77fd5d83d0646b))
+* add MacroDroid patch to dev for testing (includes template store fix) ([162e163](https://gitlab.com/Paresh-Maheshwari/paresh-patches/commit/162e1634e701209b214865a17de47875fabc2022))
+* add Mark - Auto Screenshot Deleter premium unlock patch ([d6f7799](https://gitlab.com/Paresh-Maheshwari/paresh-patches/commit/d6f7799a4c3c5d0c1944e6540d80f3555f18cfd8))
+* add Proton VPN premium patch with free servers, disable telemetry ([d3750e4](https://gitlab.com/Paresh-Maheshwari/paresh-patches/commit/d3750e4499f4d6b09e91d855d3895f2f13f63256))
+* add SD Maid SE Pro unlock patch ([e1e1f2c](https://gitlab.com/Paresh-Maheshwari/paresh-patches/commit/e1e1f2c11698435b382351b1eaea829d72de3314))
+* add StarSense Explorer unlock patch ([4f839a2](https://gitlab.com/Paresh-Maheshwari/paresh-patches/commit/4f839a267e9eef8465c5924517180856f97878cd))
+* add StarSense Explorer unlock patch ([eba4fc8](https://gitlab.com/Paresh-Maheshwari/paresh-patches/commit/eba4fc84d8254a0af32811246207208901cee3eb))
+* add Telegram patches - premium, integrity, content bypass, ads, auto update, typing, download boost ([1a9a76b](https://gitlab.com/Paresh-Maheshwari/paresh-patches/commit/1a9a76b44ce90100bd7b1a9eafe0f2a19a987e3a))
+* add TickTick premium patch ([e141443](https://gitlab.com/Paresh-Maheshwari/paresh-patches/commit/e14144365d04dd8075c95194a0a3951e7f621d19))
+* fix Truecaller blocking reset, notification, hide premium tab/settings ([56dfeda](https://gitlab.com/Paresh-Maheshwari/paresh-patches/commit/56dfeda17cd39826240572b6bb0282793a34a437))
+* hide premium from user details, disable update check & telemetry for Truecaller ([c51fffa](https://gitlab.com/Paresh-Maheshwari/paresh-patches/commit/c51fffa0bc67baf36b31e5df1c55c04f632ec2a3))
+* **jiohotstar:** add live ad removal, HDR10, and codec unlock patches ([efa97c7](https://gitlab.com/Paresh-Maheshwari/paresh-patches/commit/efa97c75837ae52ba3df5a89a1116e1e2bb529fe))
+* **jiohotstar:** update patches for v26.04.27.10 - use stable string-based fingerprints ([8f2a37d](https://gitlab.com/Paresh-Maheshwari/paresh-patches/commit/8f2a37dbe1a6365dfb602cea1a0c9aba7e38fac7))
+* migrate to GitLab - remove GitHub templates, add GitLab issue templates, update README ([fe92c3d](https://gitlab.com/Paresh-Maheshwari/paresh-patches/commit/fe92c3df117e005182169d11481d1d91f794a1b6))
+* move patch requests to Discussions, add bug report and enhancement issue templates ([a13afae](https://gitlab.com/Paresh-Maheshwari/paresh-patches/commit/a13afaeda2f8ad42c7723d92a1292175ecba883d))
+* **ticktick:** bypass 24h install kill switch and anti-tamper check ([ac4fee1](https://gitlab.com/Paresh-Maheshwari/paresh-patches/commit/ac4fee1c005104715fd44735224a5ee9694c06ce))
+* **truecaller:** add hide Family Protection button patch ([8b28a53](https://gitlab.com/Paresh-Maheshwari/paresh-patches/commit/8b28a5334540895f2c4e3e6d037a63340007a9ff))
+* **truecaller:** neutralize 15 third-party telemetry and ad SDKs ([f30af92](https://gitlab.com/Paresh-Maheshwari/paresh-patches/commit/f30af9232c583bbbab7f0e82b73bfac48bfe0eb4)), closes [#84](https://gitlab.com/Paresh-Maheshwari/paresh-patches/issues/84)
+
 # [1.17.0-dev.3](https://gitlab.com/Paresh-Maheshwari/paresh-patches/compare/v1.17.0-dev.2...v1.17.0-dev.3) (2026-05-29)
 
 
