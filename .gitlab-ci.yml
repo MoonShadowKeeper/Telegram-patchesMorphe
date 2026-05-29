@@ -17,7 +17,7 @@ release:
     - yes | sdkmanager --licenses || true
     - sdkmanager "platforms;android-36" "build-tools;36.0.0"
     - apt-get update && apt-get install -y curl jq python3
-    - curl -fsSL https://deb.nodesource.com/setup_20.x | bash -
+    - curl -fsSL https://deb.nodesource.com/setup_22.x | bash -
     - apt-get install -y nodejs
     - git config --global user.email "semantic-release-bot@martynus.net"
     - git config --global user.name "semantic-release-bot"
