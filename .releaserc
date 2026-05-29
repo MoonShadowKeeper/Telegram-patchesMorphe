@@ -28,7 +28,7 @@
     [
       "@semantic-release/exec",
       {
-        "prepareCmd": "jq '.version=\"${nextRelease.version}\"' patches-list.json > patches-list.json.tmp && mv patches-list.json.tmp patches-list.json && rm -f patches/build/libs/*.mpp && ./gradlew :patches:buildAndroid"
+        "prepareCmd": "jq '.version=\"${nextRelease.version}\"' patches-list.json > patches-list.json.tmp && mv patches-list.json.tmp patches-list.json && rm -f patches/build/libs/*.mpp && ./gradlew :patches:buildAndroid && python3 scripts/generate_patches_readme.py Paresh-Maheshwari/paresh-patches ${branch.name} patches-list.json README.md"
       }
     ],
     [
@@ -38,7 +38,8 @@
           "CHANGELOG.md",
           "gradle.properties",
           "patches-bundle.json",
-          "patches-list.json"
+          "patches-list.json",
+          "README.md"
         ],
         "message": "chore: Release v${nextRelease.version} [skip ci]\n\n${nextRelease.notes}"
       }
@@ -53,6 +54,13 @@
             "filepath": "/patches-${nextRelease.version}.mpp"
           }
         ]
+      }
+    ],
+    [
+      "@cleyrop-org/semantic-release-backmerge",
+      {
+        "backmergeBranches": [{"from": "main", "to": "dev"}],
+        "clearWorkspace": true
       }
     ]
   ]

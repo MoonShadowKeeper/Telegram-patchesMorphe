@@ -59,7 +59,7 @@ object MessagesControllerIsPeerNoForwardsFingerprint : Fingerprint(
 @Suppress("unused")
 val bypassContentRestrictionPatch = bytecodePatch(
     name = "Bypass content restrictions",
-    description = "Allows copying, saving, forwarding, and screenshots from restricted channels."
+    description = "Allows saving from restricted channels."
 ) {
     compatibleWith(COMPATIBILITY_TELEGRAM)
 

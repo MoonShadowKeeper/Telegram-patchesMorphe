@@ -16,102 +16,274 @@ Custom [Morphe](https://morphe.software) patches for unlocking premium features 
 
 ## Patches
 
-### Prompter Pal
-> `com.solid.teleprompter` · v6.8.2 · [APKPure (XAPK)](https://apkpure.net/teleprompter-vlog-scripts/com.solid.teleprompter)
-- Unlock premium features
+<!-- PATCHES_START EXPANDED -->
+> **[v1.17.0-dev.2](https://github.com/Paresh-Maheshwari/paresh-patches/releases/tag/v1.17.0-dev.2)**&nbsp;&nbsp;•&nbsp;&nbsp;`dev`&nbsp;&nbsp;•&nbsp;&nbsp;41 patches total
+<details open>
+<summary>📦 Telegram&nbsp;&nbsp;•&nbsp;&nbsp;10 patches</summary>
+<br>
 
-### VN - AI Video Editor
-> `com.frontrow.vlog` · v2.12.0 · [APKMirror (APKM)](https://www.apkmirror.com/apk/ubiquiti-labs-llc/vn-video-editor-maker-vlognow/)
-- Unlock premium features
-- Remove watermark
-- Hide Pro tab
+**🎯 Supported versions:**
 
-### Document Scanner
-> `com.cv.docscanner` · v6.8.18 · [APKPure (XAPK)](https://apkpure.net/document-scanner-pdf-creator/com.cv.docscanner/download)
-- Unlock all premium
-- Remove ads
-- Pro themes & stickers
+| 12.6.4 |
+| :---: |
 
-### Fing - Network Tools
-> `com.overlook.android.fing` · v12.11.9 · [APKMirror (APKM)](https://www.apkmirror.com/apk/fing-limited/fing-network-tools/fing-network-tools-12-11-9-release/)
-- Unlock premium network tools
-- Bypass daily scan limit
-- Security tab unlocked
-- All feature entitlements
+| 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
+|----------|----------------|-----------|
+| [Anti-delete messages](#anti-delete-messages) | Prevents deleted messages from being removed locally. |  |
+| [Anti-disappearing media](#anti-disappearing-media) | Keeps view-once and self-destructing media viewable forever. |  |
+| [Bypass channel restrictions](#bypass-channel-restrictions) | Allows opening copyrighted, sensitive, and temporarily disabled channels. |  |
+| [Bypass content restrictions](#bypass-content-restrictions) | Allows copying, saving, forwarding, and screenshots from restricted channels. |  |
+| [Bypass integrity](#bypass-integrity) | Bypasses integrity check to allow login on patched app. |  |
+| [Disable auto update](#disable-auto-update) | Disables automatic app update checks. |  |
+| [Download speed boost](#download-speed-boost) | Increases download chunk size and max concurrent requests. |  |
+| [Hide typing indicator](#hide-typing-indicator) | Hides your typing indicator from other users. |  |
+| [Remove ads](#remove-ads) | Removes sponsored messages and video ads. |  |
+| [Telegram Premium](#telegram-premium) | Unlocks premium features. |  |
 
-> **📝 Note:** Register at [fing.com](https://app.fing.com) first, then login in-app with email & password. Google/Facebook login won't work (signature mismatch). Account page shows "Free" but all premium features are unlocked.
+</details>
 
-### Truecaller
-> `com.truecaller` · v26.10.6 · [APKMirror (APKM)](https://www.apkmirror.com/apk/true-software-scandinavia-ab/truecaller-caller-id-block/truecaller-trusted-caller-id-26-14-6-release/)
-- Unlock Gold premium
-- All features available (Max blocking, 140 series, telemarketers, etc.)
-- Remove ads
-- Prevent server from resetting blocking settings
-- Block subscription expired notification
-- Hide Premium tab (optional)
-- Hide Premium from settings (optional)
-- Hide Scams tab (optional)
-- Hide Assistant tab (optional)
-- Disable telemetry
-- Disable update check
+<details open>
+<summary>📦 JioHotstar&nbsp;&nbsp;•&nbsp;&nbsp;7 patches</summary>
+<br>
 
-> **📝 Note:** "Who viewed my profile" is server-side and cannot be patched. Gold caller ID badge on incoming calls is per-contact server data.
+**🎯 Supported versions:**
 
-### Telegram
-> `org.telegram.messenger.web` · v12.6.4 · [APKMirror (APK)](https://www.apkmirror.com/apk/telegram-fz-llc/telegram-web-version/)
-- Unlock premium features (client-side only)
-- Bypass integrity check for login
-- Open copyrighted, sensitive, and disabled channels
-- Copy, save, forward, screenshot from restricted channels
-- Remove sponsored messages
-- Disable auto update
-- Anti-delete messages — deleted messages stay visible locally
-- Anti-disappearing media — view-once media can be viewed multiple times
-- Hide typing indicator (optional)
-- Download speed boost (optional)
+| 26.04.27.10 |
+| :---: |
 
-> **📝 Note:** Premium is client-side UI only — server-validated features (upload size, etc.) won't work. Forwarding from private restricted channels is server-side enforced.
+| 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
+|----------|----------------|-----------|
+| [Bypass signature check](#bypass-signature-check) | Bypasses app signature verification to allow API access. |  |
+| [Enable all codecs](#enable-all-codecs) | Enables all video codecs (H265, VP9, AV1) and 4K resolution by bypassing blacklist and capability checks. |  |
+| [Enable screen mirroring](#enable-screen-mirroring) | Allows playback while screen mirroring or HDMI is connected. |  |
+| [Enable screenshots](#enable-screenshots) | Removes screenshot and screen recording restrictions. |  |
+| [Force HDR10](#force-hdr10) | Forces HDR10 and HDR10+ playback on compatible devices by bypassing blacklist and capability checks. |  |
+| [Premium unlock](#premium-unlock) | Unlocks premium UI features, removes subscription nudges, and enables downloads. |  |
+| [Remove ads](#remove-ads) | Removes pre-roll, mid-roll, and live match video ads. |  |
 
-### Eyecon Caller ID & Spam Block
-> `com.eyecon.global` · v4.2026.04.05.1300 · [APKMirror (APKM)](https://www.apkmirror.com/apk/eyecon-phone-dialer-contacts/eyecon-caller-id-spam-block/eyecon-caller-id-spam-block-4-2026-04-05-1300-release/)
-- Unlock premium features
-- Hide premium button from bottom bar
-- Hide premium from settings
+</details>
 
-### CREX - Just Cricket
-> `in.cricketexchange.app.cricketexchange` · v26.04.05 · [APKMirror (APKM)](https://www.apkmirror.com/apk/cricket-exchange/cricket-exchange-live-score-analysis/crex-just-cricket-26-04-05-release/crex-just-cricket-26-04-05-android-apk-download/)
-- Unlock premium features
-- Remove ads
+<details open>
+<summary>📦 CREX - Just Cricket&nbsp;&nbsp;•&nbsp;&nbsp;1 patch</summary>
+<br>
 
-### TickTick - To Do List & Planner
-> `com.ticktick.task` · v8.0.6.1 · [APKMirror (APKM)](https://www.apkmirror.com/apk/ticktick-limited/ticktick-to-do-list-with-reminder-day-planner/ticktickto-do-list-calendar-8-0-6-1-release/)
-- Unlock premium features
-- Remove all free-tier limits (tasks, projects, reminders, habits, etc.)
-- Enable AI voice/recording tools
-- Pro-tier limits applied everywhere
+**🎯 Supported versions:**
 
-> **📝 Note:** The "Upgrade to Premium" button on the profile page is cosmetic (server-rendered WebView). All premium features work regardless.
+| 26.04.05 |
+| :---: |
 
-### Mark - Auto Screenshot Deleter
-> `com.markOne.ss_app` · v6.6 · [APKPure (XAPK)](https://apkpure.com/mark-auto-screenshot-deleter/com.markOne.ss_app/download)
-- Unlock premium features
-- Remove ads
-- Bypass Play Store license check
+| 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
+|----------|----------------|-----------|
+| [CREX Premium](#crex-premium) | Unlocks premium features and removes ads. |  |
 
-### Proton VPN
-> `ch.protonvpn.android` · v5.17.72.0 · [APKMirror (APKM)](https://www.apkmirror.com/apk/proton-technologies-ag/protonvpn-secure-and-free-vpn/proton-vpn-fast-secure-vpn-5-17-72-0-release/)
-- **Premium UI** — no upsells, no cooldowns, no upgrade banners
-- NetShield ad/tracker blocking enabled
-- All feature flags enabled
-- Free servers only — Countries tab shows only free servers (10 countries)
-- Connection picks only free servers automatically
-- Premium filter tabs hidden (SecureCore, P2P, Tor)
-- Profile type restricted to Standard only
-- Profile country list shows only free countries
-- Skip upgrade onboarding dialog after login
-- **Disable telemetry** — blocks all telemetry, analytics, and observability data collection
+</details>
 
-> **📝 Note:** VPN connections are validated server-side. Only free-tier servers (US, NL, JP, RO, PL, CZ, DE, FR, UK, CH) are connectable. Plus/Secure Core/P2P/Tor servers require a paid account. The patch provides a clean premium UI experience on free servers with no ads, no upsells, and no tracking.
+<details open>
+<summary>📦 Proton VPN&nbsp;&nbsp;•&nbsp;&nbsp;2 patches</summary>
+<br>
+
+**🎯 Supported versions:**
+
+| 5.17.72.0 |
+| :---: |
+
+| 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
+|----------|----------------|-----------|
+| [Disable telemetry](#disable-telemetry) | Blocks all telemetry, analytics, and observability data collection. |  |
+| [Proton VPN Premium](#proton-vpn-premium) | Unlocks premium UI features: removes upsells, enables NetShield ad-blocker, hides upgrade prompts, shows free servers with premium interface (Plus badge, no speed limits display, all feature flags enabled). |  |
+
+</details>
+
+<details open>
+<summary>📦 Truecaller&nbsp;&nbsp;•&nbsp;&nbsp;10 patches</summary>
+<br>
+
+**🎯 Supported versions:**
+
+| 26.10.6 |
+| :---: |
+
+| 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
+|----------|----------------|-----------|
+| [Disable telemetry](#disable-telemetry) | Disables AppStartTracker and other telemetry points. |  |
+| [Disable update check](#disable-update-check) | Disables the in-app update check. |  |
+| [GMS sign-in bypass](#gms-sign-in-bypass) | Forces SMS-based OTP verification instead of GMS SmsRetriever, fixing sign-in on re-signed APKs. |  |
+| [Hide Assistant tab](#hide-assistant-tab) | Hides the Assistant tab from the bottom navigation bar. |  |
+| [Hide Family Protection button](#hide-family-protection-button) | Hides the Family Protection button from the bottom navigation bar. |  |
+| [Hide Premium from settings](#hide-premium-from-settings) | Hides the Premium options from the settings and user details pages. |  |
+| [Hide Premium tab](#hide-premium-tab) | Hides the Premium tab from the bottom navigation bar. |  |
+| [Hide Scams tab](#hide-scams-tab) | Hides the Scams tab from the bottom navigation bar. |  |
+| [Neutralize third-party SDKs](#neutralize-third-party-sdks) | Disables telemetry, ad, and tracking SDK initializations. Fixes #84. |  |
+| [Truecaller Premium](#truecaller-premium) | Unlocks premium features. |  |
+
+</details>
+
+<details open>
+<summary>📦 Document Scanner&nbsp;&nbsp;•&nbsp;&nbsp;1 patch</summary>
+<br>
+
+**🎯 Supported versions:**
+
+| 6.8.18 |
+| :---: |
+
+| 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
+|----------|----------------|-----------|
+| [Doc Scanner Premium](#doc-scanner-premium) | Unlocks all premium features, removes ads, and enables pro themes. |  |
+
+</details>
+
+<details open>
+<summary>📦 Eyecon Caller ID & Spam Block&nbsp;&nbsp;•&nbsp;&nbsp;1 patch</summary>
+<br>
+
+**🎯 Supported versions:**
+
+| 4.2026.04.05.1300 |
+| :---: |
+
+| 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
+|----------|----------------|-----------|
+| [Eyecon Premium](#eyecon-premium) | Unlocks premium features. |  |
+
+</details>
+
+<details open>
+<summary>📦 Fing&nbsp;&nbsp;•&nbsp;&nbsp;1 patch</summary>
+<br>
+
+**🎯 Supported versions:**
+
+| 12.11.9 |
+| :---: |
+
+| 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
+|----------|----------------|-----------|
+| [Fing Premium](#fing-premium) | Unlocks premium network tools and features. |  |
+
+</details>
+
+<details open>
+<summary>📦 Lumina Walls&nbsp;&nbsp;•&nbsp;&nbsp;1 patch</summary>
+<br>
+
+**🎯 Supported versions:**
+
+| 1.0.2.3 |
+| :---: |
+
+| 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
+|----------|----------------|-----------|
+| [Lumina Premium](#lumina-premium) | Unlocks all premium wallpapers and categories. |  |
+
+</details>
+
+<details open>
+<summary>📦 MacroDroid&nbsp;&nbsp;•&nbsp;&nbsp;1 patch</summary>
+<br>
+
+**🎯 Supported versions:**
+
+| 5.62.11 |
+| :---: |
+
+| 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
+|----------|----------------|-----------|
+| [MacroDroid Premium](#macrodroid-premium) | Unlocks premium features and removes macro limits. |  |
+
+</details>
+
+<details open>
+<summary>📦 Mark&nbsp;&nbsp;•&nbsp;&nbsp;1 patch</summary>
+<br>
+
+**🎯 Supported versions:**
+
+| 6.6 |
+| :---: |
+
+| 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
+|----------|----------------|-----------|
+| [Mark Premium](#mark-premium) | Unlocks premium features and removes ads. |  |
+
+</details>
+
+<details open>
+<summary>📦 Prompter Pal&nbsp;&nbsp;•&nbsp;&nbsp;1 patch</summary>
+<br>
+
+**🎯 Supported versions:**
+
+| 6.8.2 | 6.8.1 |
+| :---: | :---: |
+
+| 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
+|----------|----------------|-----------|
+| [Teleprompter Premium](#teleprompter-premium) | Unlocks premium features in Teleprompter Vlog & Scripts app. |  |
+
+</details>
+
+<details open>
+<summary>📦 TickTick&nbsp;&nbsp;•&nbsp;&nbsp;1 patch</summary>
+<br>
+
+**🎯 Supported versions:**
+
+| 8.0.6.1 |
+| :---: |
+
+| 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
+|----------|----------------|-----------|
+| [TickTick Premium](#ticktick-premium) | Unlocks premium features, removes limits, and enables AI tools. |  |
+
+</details>
+
+<details open>
+<summary>📦 Alarmo&nbsp;&nbsp;•&nbsp;&nbsp;1 patch</summary>
+<br>
+
+**🎯 Supported versions:**
+
+| 1.3.7 |
+| :---: |
+
+| 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
+|----------|----------------|-----------|
+| [Unlock Premium](#unlock-premium) | Unlocks all premium missions — Lights On, Step & Walk Off, Push-Up, Squats, Jumping Jack, and Wake Up check. |  |
+
+</details>
+
+<details open>
+<summary>📦 SD Maid SE&nbsp;&nbsp;•&nbsp;&nbsp;1 patch</summary>
+<br>
+
+**🎯 Supported versions:**
+
+| 1.7.3-rc0 |
+| :---: |
+
+| 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
+|----------|----------------|-----------|
+| [Unlock Pro](#unlock-pro) | Unlocks SD Maid SE Pro features — full history, scheduled operations, extra options, custom rules. |  |
+
+</details>
+
+<details open>
+<summary>📦 VN&nbsp;&nbsp;•&nbsp;&nbsp;1 patch</summary>
+<br>
+
+**🎯 Supported versions:**
+
+| 2.12.0 |
+| :---: |
+
+| 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
+|----------|----------------|-----------|
+| [VN Premium](#vn-premium) | Unlocks premium features, removes watermark, and hides Pro tab. |  |
+
+</details>
+
+<!-- PATCHES_END -->
 
 ## Usage
 
