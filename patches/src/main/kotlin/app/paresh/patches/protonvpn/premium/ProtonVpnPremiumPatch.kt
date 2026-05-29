@@ -10,7 +10,7 @@ import app.paresh.patches.protonvpn.shared.Constants.COMPATIBILITY_PROTONVPN
 @Suppress("unused")
 val protonVpnPremiumPatch = bytecodePatch(
     name = "Proton VPN Premium",
-    description = "Unlocks premium UI, removes upsells, and shows only free servers."
+    description = "Unlocks premium UI features: removes upsells, enables NetShield ad-blocker, hides upgrade prompts, shows free servers with premium interface (Plus badge, no speed limits display, all feature flags enabled)."
 ) {
     compatibleWith(COMPATIBILITY_PROTONVPN)
 

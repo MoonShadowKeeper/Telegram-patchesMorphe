@@ -1,5 +1,5 @@
 {
-  "version": "1.16.0",
+  "version": "1.17.0-dev.3",
   "patches": [
     {
       "name": "Anti-delete messages",
@@ -78,7 +78,7 @@
     },
     {
       "name": "Bypass content restrictions",
-      "description": "Allows copying, saving, forwarding, and screenshots from restricted channels.",
+      "description": "Allows saving from restricted channels.",
       "default": true,
       "dependencies": [],
       "compatiblePackages": [
@@ -477,6 +477,31 @@
       "options": []
     },
     {
+      "name": "GMS sign-in bypass",
+      "description": "Forces SMS-based OTP verification instead of GMS SmsRetriever, fixing sign-in on re-signed APKs.",
+      "default": true,
+      "dependencies": [],
+      "compatiblePackages": [
+        {
+          "packageName": "com.truecaller",
+          "name": "Truecaller",
+          "description": null,
+          "apkFileType": "APKM",
+          "appIconColor": "#0028FF",
+          "signatures": null,
+          "targets": [
+            {
+              "version": "26.10.6",
+              "isExperimental": false,
+              "minSdk": null,
+              "description": null
+            }
+          ]
+        }
+      ],
+      "options": []
+    },
+    {
       "name": "Hide Assistant tab",
       "description": "Hides the Assistant tab from the bottom navigation bar.",
       "default": true,
@@ -627,6 +652,56 @@
       "options": []
     },
     {
+      "name": "Lumina Premium",
+      "description": "Unlocks all premium wallpapers and categories.",
+      "default": true,
+      "dependencies": [],
+      "compatiblePackages": [
+        {
+          "packageName": "com.lumina.wallpapers",
+          "name": "Lumina Walls",
+          "description": null,
+          "apkFileType": "XAPK",
+          "appIconColor": "#6200EE",
+          "signatures": null,
+          "targets": [
+            {
+              "version": "1.0.2.3",
+              "isExperimental": false,
+              "minSdk": null,
+              "description": null
+            }
+          ]
+        }
+      ],
+      "options": []
+    },
+    {
+      "name": "MacroDroid Premium",
+      "description": "Unlocks premium features and removes macro limits.",
+      "default": true,
+      "dependencies": [],
+      "compatiblePackages": [
+        {
+          "packageName": "com.arlosoft.macrodroid",
+          "name": "MacroDroid",
+          "description": null,
+          "apkFileType": "APK",
+          "appIconColor": "#20334D",
+          "signatures": null,
+          "targets": [
+            {
+              "version": "5.62.11",
+              "isExperimental": false,
+              "minSdk": null,
+              "description": null
+            }
+          ]
+        }
+      ],
+      "options": []
+    },
+    {
       "name": "Mark Premium",
       "description": "Unlocks premium features and removes ads.",
       "default": true,
@@ -642,6 +717,31 @@
           "targets": [
             {
               "version": "6.6",
+              "isExperimental": false,
+              "minSdk": null,
+              "description": null
+            }
+          ]
+        }
+      ],
+      "options": []
+    },
+    {
+      "name": "Neutralize third-party SDKs",
+      "description": "Disables telemetry, ad, and tracking SDK initializations. Fixes #84.",
+      "default": true,
+      "dependencies": [],
+      "compatiblePackages": [
+        {
+          "packageName": "com.truecaller",
+          "name": "Truecaller",
+          "description": null,
+          "apkFileType": "APKM",
+          "appIconColor": "#0028FF",
+          "signatures": null,
+          "targets": [
+            {
+              "version": "26.10.6",
               "isExperimental": false,
               "minSdk": null,
               "description": null
@@ -678,7 +778,7 @@
     },
     {
       "name": "Proton VPN Premium",
-      "description": "Unlocks premium UI, removes upsells, and shows only free servers.",
+      "description": "Unlocks premium UI features: removes upsells, enables NetShield ad-blocker, hides upgrade prompts, shows free servers with premium interface (Plus badge, no speed limits display, all feature flags enabled).",
       "default": true,
       "dependencies": [],
       "compatiblePackages": [
@@ -742,6 +842,31 @@
           "targets": [
             {
               "version": "12.6.4",
+              "isExperimental": false,
+              "minSdk": null,
+              "description": null
+            }
+          ]
+        }
+      ],
+      "options": []
+    },
+    {
+      "name": "StarSense Unlock",
+      "description": "Bypasses the unlock code check to enable all features.",
+      "default": true,
+      "dependencies": [],
+      "compatiblePackages": [
+        {
+          "packageName": "com.celestron.skybox",
+          "name": "StarSense Explorer",
+          "description": null,
+          "apkFileType": "XAPK",
+          "appIconColor": "#1A237E",
+          "signatures": null,
+          "targets": [
+            {
+              "version": "2.0.2.3",
               "isExperimental": false,
               "minSdk": null,
               "description": null
@@ -848,6 +973,56 @@
           "targets": [
             {
               "version": "26.10.6",
+              "isExperimental": false,
+              "minSdk": null,
+              "description": null
+            }
+          ]
+        }
+      ],
+      "options": []
+    },
+    {
+      "name": "Unlock Premium",
+      "description": "Unlocks all premium missions — Lights On, Step & Walk Off, Push-Up, Squats, Jumping Jack, and Wake Up check.",
+      "default": true,
+      "dependencies": [],
+      "compatiblePackages": [
+        {
+          "packageName": "com.bytesong.missionalarm",
+          "name": "Alarmo",
+          "description": null,
+          "apkFileType": "XAPK",
+          "appIconColor": "#6C63FF",
+          "signatures": null,
+          "targets": [
+            {
+              "version": "1.3.7",
+              "isExperimental": false,
+              "minSdk": null,
+              "description": null
+            }
+          ]
+        }
+      ],
+      "options": []
+    },
+    {
+      "name": "Unlock Pro",
+      "description": "Unlocks SD Maid SE Pro features — full history, scheduled operations, extra options, custom rules.",
+      "default": true,
+      "dependencies": [],
+      "compatiblePackages": [
+        {
+          "packageName": "eu.darken.sdmse",
+          "name": "SD Maid SE",
+          "description": null,
+          "apkFileType": "APKM",
+          "appIconColor": "#4CAF50",
+          "signatures": null,
+          "targets": [
+            {
+              "version": "1.7.3-rc0",
               "isExperimental": false,
               "minSdk": null,
               "description": null
