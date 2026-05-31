@@ -1,5 +1,5 @@
 {
-  "version": "1.18.0-dev.2",
+  "version": "1.18.0-dev.3",
   "patches": [
     {
       "name": "Anti-delete messages",
@@ -216,7 +216,7 @@
           "signatures": null,
           "targets": [
             {
-              "version": "5.17.72.0",
+              "version": "5.18.46.0",
               "isExperimental": false,
               "minSdk": null,
               "description": null
@@ -791,7 +791,7 @@
           "signatures": null,
           "targets": [
             {
-              "version": "5.17.72.0",
+              "version": "5.18.46.0",
               "isExperimental": false,
               "minSdk": null,
               "description": null

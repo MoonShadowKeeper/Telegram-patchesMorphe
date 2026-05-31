@@ -1,3 +1,10 @@
+# [1.18.0-dev.3](https://gitlab.com/Paresh-Maheshwari/paresh-patches/compare/v1.18.0-dev.2...v1.18.0-dev.3) (2026-05-31)
+
+
+### Features
+
+* upgrade Proton VPN patch to v5.18.46.0 ([ad8a8f1](https://gitlab.com/Paresh-Maheshwari/paresh-patches/commit/ad8a8f107dcada3928fb1a1d9487b3842c9a2dd2))
+
 # [1.18.0-dev.2](https://gitlab.com/Paresh-Maheshwari/paresh-patches/compare/v1.18.0-dev.1...v1.18.0-dev.2) (2026-05-31)
 
 

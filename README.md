@@ -17,7 +17,7 @@ Custom [Morphe](https://morphe.software) patches for unlocking premium features 
 ## Patches
 
 <!-- PATCHES_START EXPANDED -->
-> **[v1.18.0-dev.2](https://github.com/Paresh-Maheshwari/paresh-patches/releases/tag/v1.18.0-dev.2)**&nbsp;&nbsp;•&nbsp;&nbsp;`dev`&nbsp;&nbsp;•&nbsp;&nbsp;43 patches total
+> **[v1.18.0-dev.3](https://github.com/Paresh-Maheshwari/paresh-patches/releases/tag/v1.18.0-dev.3)**&nbsp;&nbsp;•&nbsp;&nbsp;`dev`&nbsp;&nbsp;•&nbsp;&nbsp;43 patches total
 <details open>
 <summary>📦 Telegram&nbsp;&nbsp;•&nbsp;&nbsp;10 patches</summary>
 <br>
@@ -84,7 +84,7 @@ Custom [Morphe](https://morphe.software) patches for unlocking premium features 
 
 **🎯 Supported versions:**
 
-| 5.17.72.0 |
+| 5.18.46.0 |
 | :---: |
 
 | 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
