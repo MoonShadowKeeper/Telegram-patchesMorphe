@@ -958,6 +958,31 @@
       "options": []
     },
     {
+      "name": "TrackIt Premium",
+      "description": "Unlocks premium features.",
+      "default": true,
+      "dependencies": [],
+      "compatiblePackages": [
+        {
+          "packageName": "app.vinztech.trackit",
+          "name": "TrackIt",
+          "description": null,
+          "apkFileType": "XAPK",
+          "appIconColor": "#4CAF50",
+          "signatures": null,
+          "targets": [
+            {
+              "version": "1.5.5",
+              "isExperimental": false,
+              "minSdk": null,
+              "description": null
+            }
+          ]
+        }
+      ],
+      "options": []
+    },
+    {
       "name": "Truecaller Premium",
       "description": "Unlocks premium features.",
       "default": true,

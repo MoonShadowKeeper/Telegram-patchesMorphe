@@ -17,7 +17,7 @@ Custom [Morphe](https://morphe.software) patches for unlocking premium features 
 ## Patches
 
 <!-- PATCHES_START EXPANDED -->
-> **[v1.17.0-dev.3](https://github.com/Paresh-Maheshwari/paresh-patches/releases/tag/v1.17.0-dev.3)**&nbsp;&nbsp;•&nbsp;&nbsp;`dev`&nbsp;&nbsp;•&nbsp;&nbsp;42 patches total
+> **[v1.17.0-dev.3](https://github.com/Paresh-Maheshwari/paresh-patches/releases/tag/v1.17.0-dev.3)**&nbsp;&nbsp;•&nbsp;&nbsp;`dev`&nbsp;&nbsp;•&nbsp;&nbsp;43 patches total
 <details open>
 <summary>📦 Telegram&nbsp;&nbsp;•&nbsp;&nbsp;10 patches</summary>
 <br>
@@ -250,6 +250,21 @@ Custom [Morphe](https://morphe.software) patches for unlocking premium features 
 | 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
 |----------|----------------|-----------|
 | [TickTick Premium](#ticktick-premium) | Unlocks premium features, removes limits, and enables AI tools. |  |
+
+</details>
+
+<details open>
+<summary>📦 TrackIt&nbsp;&nbsp;•&nbsp;&nbsp;1 patch</summary>
+<br>
+
+**🎯 Supported versions:**
+
+| 1.5.5 |
+| :---: |
+
+| 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
+|----------|----------------|-----------|
+| [TrackIt Premium](#trackit-premium) | Unlocks premium features. |  |
 
 </details>
 
