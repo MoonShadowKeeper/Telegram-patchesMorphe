@@ -1,5 +1,5 @@
 {
-  "version": "1.17.0-dev.3",
+  "version": "1.17.0",
   "patches": [
     {
       "name": "Anti-delete messages",
@@ -948,31 +948,6 @@
           "targets": [
             {
               "version": "8.0.6.1",
-              "isExperimental": false,
-              "minSdk": null,
-              "description": null
-            }
-          ]
-        }
-      ],
-      "options": []
-    },
-    {
-      "name": "TrackIt Premium",
-      "description": "Unlocks premium features.",
-      "default": true,
-      "dependencies": [],
-      "compatiblePackages": [
-        {
-          "packageName": "app.vinztech.trackit",
-          "name": "TrackIt",
-          "description": null,
-          "apkFileType": "XAPK",
-          "appIconColor": "#4CAF50",
-          "signatures": null,
-          "targets": [
-            {
-              "version": "1.5.5",
               "isExperimental": false,
               "minSdk": null,
               "description": null
