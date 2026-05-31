@@ -1,3 +1,10 @@
+# [1.18.0-dev.2](https://gitlab.com/Paresh-Maheshwari/paresh-patches/compare/v1.18.0-dev.1...v1.18.0-dev.2) (2026-05-31)
+
+
+### Features
+
+* upgrade Fing patch to v12.12.0 ([94011fb](https://gitlab.com/Paresh-Maheshwari/paresh-patches/commit/94011fbc7397bcf568df91efac4dab8eb9f3bff2))
+
 # [1.18.0-dev.1](https://gitlab.com/Paresh-Maheshwari/paresh-patches/compare/v1.17.0...v1.18.0-dev.1) (2026-05-31)
 
 
