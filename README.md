@@ -17,7 +17,7 @@ Custom [Morphe](https://morphe.software) patches for unlocking premium features 
 ## Patches
 
 <!-- PATCHES_START EXPANDED -->
-> **[v1.18.0-dev.3](https://github.com/Paresh-Maheshwari/paresh-patches/releases/tag/v1.18.0-dev.3)**&nbsp;&nbsp;•&nbsp;&nbsp;`dev`&nbsp;&nbsp;•&nbsp;&nbsp;43 patches total
+> **[v1.18.0-dev.4](https://github.com/Paresh-Maheshwari/paresh-patches/releases/tag/v1.18.0-dev.4)**&nbsp;&nbsp;•&nbsp;&nbsp;`dev`&nbsp;&nbsp;•&nbsp;&nbsp;45 patches total
 <details open>
 <summary>📦 Telegram&nbsp;&nbsp;•&nbsp;&nbsp;10 patches</summary>
 <br>
@@ -75,6 +75,22 @@ Custom [Morphe](https://morphe.software) patches for unlocking premium features 
 | 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
 |----------|----------------|-----------|
 | [CREX Premium](#crex-premium) | Unlocks premium features and removes ads. |  |
+
+</details>
+
+<details open>
+<summary>📦 Cricbuzz&nbsp;&nbsp;•&nbsp;&nbsp;2 patches</summary>
+<br>
+
+**🎯 Supported versions:**
+
+| 16.02.05 |
+| :---: |
+
+| 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
+|----------|----------------|-----------|
+| [Cricbuzz Disable Ads](#cricbuzz-disable-ads) | Removes all ads including banner, interstitial, video, and app open ads. |  |
+| [Cricbuzz Premium](#cricbuzz-premium) | Unlocks premium features like live streaming and premium articles. |  |
 
 </details>
 

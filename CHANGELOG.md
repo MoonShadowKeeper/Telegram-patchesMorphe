@@ -1,3 +1,10 @@
+# [1.18.0-dev.4](https://gitlab.com/Paresh-Maheshwari/paresh-patches/compare/v1.18.0-dev.3...v1.18.0-dev.4) (2026-05-31)
+
+
+### Features
+
+* add Cricbuzz 16.02.05 patches (premium unlock + ad removal) ([0f6c858](https://gitlab.com/Paresh-Maheshwari/paresh-patches/commit/0f6c858ea5e2f42b4a9d0531eeb1d4fa995ca04b))
+
 # [1.18.0-dev.3](https://gitlab.com/Paresh-Maheshwari/paresh-patches/compare/v1.18.0-dev.2...v1.18.0-dev.3) (2026-05-31)
 
 

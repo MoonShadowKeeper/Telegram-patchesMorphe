@@ -1,5 +1,5 @@
 {
-  "version": "1.18.0-dev.3",
+  "version": "1.18.0-dev.4",
   "patches": [
     {
       "name": "Anti-delete messages",
@@ -167,6 +167,56 @@
           "targets": [
             {
               "version": "26.04.05",
+              "isExperimental": false,
+              "minSdk": null,
+              "description": null
+            }
+          ]
+        }
+      ],
+      "options": []
+    },
+    {
+      "name": "Cricbuzz Disable Ads",
+      "description": "Removes all ads including banner, interstitial, video, and app open ads.",
+      "default": true,
+      "dependencies": [],
+      "compatiblePackages": [
+        {
+          "packageName": "com.cricbuzz.android",
+          "name": "Cricbuzz",
+          "description": null,
+          "apkFileType": "APKM",
+          "appIconColor": "#1B5E20",
+          "signatures": null,
+          "targets": [
+            {
+              "version": "16.02.05",
+              "isExperimental": false,
+              "minSdk": null,
+              "description": null
+            }
+          ]
+        }
+      ],
+      "options": []
+    },
+    {
+      "name": "Cricbuzz Premium",
+      "description": "Unlocks premium features like live streaming and premium articles.",
+      "default": true,
+      "dependencies": [],
+      "compatiblePackages": [
+        {
+          "packageName": "com.cricbuzz.android",
+          "name": "Cricbuzz",
+          "description": null,
+          "apkFileType": "APKM",
+          "appIconColor": "#1B5E20",
+          "signatures": null,
+          "targets": [
+            {
+              "version": "16.02.05",
               "isExperimental": false,
               "minSdk": null,
               "description": null
