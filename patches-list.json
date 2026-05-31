@@ -1,5 +1,5 @@
 {
-  "version": "1.17.0-dev.2",
+  "version": "1.17.0-dev.3",
   "patches": [
     {
       "name": "Anti-delete messages",
@@ -78,7 +78,7 @@
     },
     {
       "name": "Bypass content restrictions",
-      "description": "Allows copying, saving, forwarding, and screenshots from restricted channels.",
+      "description": "Allows saving from restricted channels.",
       "default": true,
       "dependencies": [],
       "compatiblePackages": [
@@ -842,6 +842,31 @@
           "targets": [
             {
               "version": "12.6.4",
+              "isExperimental": false,
+              "minSdk": null,
+              "description": null
+            }
+          ]
+        }
+      ],
+      "options": []
+    },
+    {
+      "name": "StarSense Unlock",
+      "description": "Bypasses the unlock code check to enable all features.",
+      "default": true,
+      "dependencies": [],
+      "compatiblePackages": [
+        {
+          "packageName": "com.celestron.skybox",
+          "name": "StarSense Explorer",
+          "description": null,
+          "apkFileType": "XAPK",
+          "appIconColor": "#1A237E",
+          "signatures": null,
+          "targets": [
+            {
+              "version": "2.0.2.3",
               "isExperimental": false,
               "minSdk": null,
               "description": null

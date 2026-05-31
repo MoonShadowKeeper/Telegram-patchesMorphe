@@ -1,3 +1,17 @@
+# [1.17.0-dev.3](https://gitlab.com/Paresh-Maheshwari/paresh-patches/compare/v1.17.0-dev.2...v1.17.0-dev.3) (2026-05-31)
+
+
+### Bug Fixes
+
+* fetch dev branch in CI for backmerge plugin ([7ff2277](https://gitlab.com/Paresh-Maheshwari/paresh-patches/commit/7ff2277e72785826708818761703b113cece5065))
+* update Node.js to 22.x for semantic-release compatibility ([a958e50](https://gitlab.com/Paresh-Maheshwari/paresh-patches/commit/a958e509c13f2470f84af23a4124bd4be5fbf003))
+
+
+### Features
+
+* add StarSense Explorer unlock patch ([4f839a2](https://gitlab.com/Paresh-Maheshwari/paresh-patches/commit/4f839a267e9eef8465c5924517180856f97878cd))
+* add StarSense Explorer unlock patch ([eba4fc8](https://gitlab.com/Paresh-Maheshwari/paresh-patches/commit/eba4fc84d8254a0af32811246207208901cee3eb))
+
 # [1.17.0-dev.2](https://gitlab.com/Paresh-Maheshwari/paresh-patches/compare/v1.17.0-dev.1...v1.17.0-dev.2) (2026-05-24)
 
 
