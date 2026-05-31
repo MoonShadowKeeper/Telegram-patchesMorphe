@@ -1,3 +1,15 @@
+# [1.18.0-dev.1](https://gitlab.com/Paresh-Maheshwari/paresh-patches/compare/v1.17.0...v1.18.0-dev.1) (2026-05-31)
+
+
+### Bug Fixes
+
+* fetch dev branch in CI for backmerge plugin ([7ff2277](https://gitlab.com/Paresh-Maheshwari/paresh-patches/commit/7ff2277e72785826708818761703b113cece5065))
+
+
+### Features
+
+* add trackit premium patch ([09f9de2](https://gitlab.com/Paresh-Maheshwari/paresh-patches/commit/09f9de2ec8f9d552782511bd5c5c7be18c0f224c))
+
 # [1.17.0](https://gitlab.com/Paresh-Maheshwari/paresh-patches/compare/v1.16.0...v1.17.0) (2026-05-29)
 
 
