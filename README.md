@@ -17,7 +17,7 @@ Custom [Morphe](https://morphe.software) patches for unlocking premium features 
 ## Patches
 
 <!-- PATCHES_START EXPANDED -->
-> **[v1.18.0-dev.5](https://github.com/Paresh-Maheshwari/paresh-patches/releases/tag/v1.18.0-dev.5)**&nbsp;&nbsp;•&nbsp;&nbsp;`dev`&nbsp;&nbsp;•&nbsp;&nbsp;55 patches total
+> **[v1.18.0](https://github.com/Paresh-Maheshwari/paresh-patches/releases/tag/v1.18.0)**&nbsp;&nbsp;•&nbsp;&nbsp;`main`&nbsp;&nbsp;•&nbsp;&nbsp;55 patches total
 <details open>
 <summary>📦 Plus Messenger&nbsp;&nbsp;•&nbsp;&nbsp;10 patches</summary>
 <br>
