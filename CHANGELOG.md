@@ -1,3 +1,10 @@
+# [1.18.0-dev.5](https://gitlab.com/Paresh-Maheshwari/paresh-patches/compare/v1.18.0-dev.4...v1.18.0-dev.5) (2026-06-03)
+
+
+### Features
+
+* add Plus Messenger patches (org.telegram.plus v12.7.3.0) ([4aeb9fb](https://gitlab.com/Paresh-Maheshwari/paresh-patches/commit/4aeb9fb71ca45cb5d6ef5434ecb53b8977f06d8c))
+
 # [1.18.0-dev.4](https://gitlab.com/Paresh-Maheshwari/paresh-patches/compare/v1.18.0-dev.3...v1.18.0-dev.4) (2026-05-31)
 
 

@@ -17,7 +17,31 @@ Custom [Morphe](https://morphe.software) patches for unlocking premium features 
 ## Patches
 
 <!-- PATCHES_START EXPANDED -->
-> **[v1.18.0-dev.4](https://github.com/Paresh-Maheshwari/paresh-patches/releases/tag/v1.18.0-dev.4)**&nbsp;&nbsp;•&nbsp;&nbsp;`dev`&nbsp;&nbsp;•&nbsp;&nbsp;45 patches total
+> **[v1.18.0-dev.5](https://github.com/Paresh-Maheshwari/paresh-patches/releases/tag/v1.18.0-dev.5)**&nbsp;&nbsp;•&nbsp;&nbsp;`dev`&nbsp;&nbsp;•&nbsp;&nbsp;55 patches total
+<details open>
+<summary>📦 Plus Messenger&nbsp;&nbsp;•&nbsp;&nbsp;10 patches</summary>
+<br>
+
+**🎯 Supported versions:**
+
+| 12.7.3.0 |
+| :---: |
+
+| 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
+|----------|----------------|-----------|
+| [Anti-delete messages](#anti-delete-messages) | Prevents deleted messages from being removed locally. |  |
+| [Anti-disappearing media](#anti-disappearing-media) | Keeps view-once and self-destructing media viewable forever. |  |
+| [Anti-screenshot notification](#anti-screenshot-notification) | Blocks screenshot notifications from being sent to the other user. |  |
+| [Bypass channel restrictions](#bypass-channel-restrictions) | Allows copying text, saving media, and opening blocked channels. Forwarding is server-side blocked and won't work. |  |
+| [Bypass integrity](#bypass-integrity) | Bypasses integrity check to allow login on patched app. |  |
+| [Disable analytics](#disable-analytics) | Blocks all analytics and tracking. |  |
+| [Disable auto update](#disable-auto-update) | Disables automatic app update checks. |  |
+| [Hide typing indicator](#hide-typing-indicator) | Prevents typing status from being sent to other users. |  |
+| [Plus Premium](#plus-premium) | Unlocks premium feature UI and shows premium badge on self only. |  |
+| [Remove ads](#remove-ads) | Removes all ads including Plus banner ads and Telegram sponsored messages. |  |
+
+</details>
+
 <details open>
 <summary>📦 Telegram&nbsp;&nbsp;•&nbsp;&nbsp;10 patches</summary>
 <br>
