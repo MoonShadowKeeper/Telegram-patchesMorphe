@@ -10,7 +10,9 @@ release:
     - if: $CI_PIPELINE_SOURCE == "web"
   variables:
     ANDROID_HOME: "/opt/android-sdk"
+    GIT_DEPTH: 0
   before_script:
+    - git fetch origin dev || true
     - mkdir -p ~/.gradle
     - echo "gpr.user=${GPR_USER}" >> ~/.gradle/gradle.properties
     - echo "gpr.key=${GPR_KEY}" >> ~/.gradle/gradle.properties

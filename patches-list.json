@@ -1,6 +1,31 @@
 {
-  "version": "1.17.0",
+  "version": "1.18.0-dev.5",
   "patches": [
+    {
+      "name": "Anti-delete messages",
+      "description": "Prevents deleted messages from being removed locally.",
+      "default": true,
+      "dependencies": [],
+      "compatiblePackages": [
+        {
+          "packageName": "org.telegram.plus",
+          "name": "Plus Messenger",
+          "description": null,
+          "apkFileType": null,
+          "appIconColor": "#2AABEE",
+          "signatures": null,
+          "targets": [
+            {
+              "version": "12.7.3.0",
+              "isExperimental": false,
+              "minSdk": null,
+              "description": null
+            }
+          ]
+        }
+      ],
+      "options": []
+    },
     {
       "name": "Anti-delete messages",
       "description": "Prevents deleted messages from being removed locally.",
@@ -33,6 +58,31 @@
       "dependencies": [],
       "compatiblePackages": [
         {
+          "packageName": "org.telegram.plus",
+          "name": "Plus Messenger",
+          "description": null,
+          "apkFileType": null,
+          "appIconColor": "#2AABEE",
+          "signatures": null,
+          "targets": [
+            {
+              "version": "12.7.3.0",
+              "isExperimental": false,
+              "minSdk": null,
+              "description": null
+            }
+          ]
+        }
+      ],
+      "options": []
+    },
+    {
+      "name": "Anti-disappearing media",
+      "description": "Keeps view-once and self-destructing media viewable forever.",
+      "default": true,
+      "dependencies": [],
+      "compatiblePackages": [
+        {
           "packageName": "org.telegram.messenger.web",
           "name": "Telegram",
           "description": null,
@@ -42,6 +92,56 @@
           "targets": [
             {
               "version": "12.6.4",
+              "isExperimental": false,
+              "minSdk": null,
+              "description": null
+            }
+          ]
+        }
+      ],
+      "options": []
+    },
+    {
+      "name": "Anti-screenshot notification",
+      "description": "Blocks screenshot notifications from being sent to the other user.",
+      "default": true,
+      "dependencies": [],
+      "compatiblePackages": [
+        {
+          "packageName": "org.telegram.plus",
+          "name": "Plus Messenger",
+          "description": null,
+          "apkFileType": null,
+          "appIconColor": "#2AABEE",
+          "signatures": null,
+          "targets": [
+            {
+              "version": "12.7.3.0",
+              "isExperimental": false,
+              "minSdk": null,
+              "description": null
+            }
+          ]
+        }
+      ],
+      "options": []
+    },
+    {
+      "name": "Bypass channel restrictions",
+      "description": "Allows copying text, saving media, and opening blocked channels. Forwarding is server-side blocked and won't work.",
+      "default": true,
+      "dependencies": [],
+      "compatiblePackages": [
+        {
+          "packageName": "org.telegram.plus",
+          "name": "Plus Messenger",
+          "description": null,
+          "apkFileType": null,
+          "appIconColor": "#2AABEE",
+          "signatures": null,
+          "targets": [
+            {
+              "version": "12.7.3.0",
               "isExperimental": false,
               "minSdk": null,
               "description": null
@@ -92,6 +192,31 @@
           "targets": [
             {
               "version": "12.6.4",
+              "isExperimental": false,
+              "minSdk": null,
+              "description": null
+            }
+          ]
+        }
+      ],
+      "options": []
+    },
+    {
+      "name": "Bypass integrity",
+      "description": "Bypasses integrity check to allow login on patched app.",
+      "default": true,
+      "dependencies": [],
+      "compatiblePackages": [
+        {
+          "packageName": "org.telegram.plus",
+          "name": "Plus Messenger",
+          "description": null,
+          "apkFileType": null,
+          "appIconColor": "#2AABEE",
+          "signatures": null,
+          "targets": [
+            {
+              "version": "12.7.3.0",
               "isExperimental": false,
               "minSdk": null,
               "description": null
@@ -177,6 +302,106 @@
       "options": []
     },
     {
+      "name": "Cricbuzz Disable Ads",
+      "description": "Removes all ads including banner, interstitial, video, and app open ads.",
+      "default": true,
+      "dependencies": [],
+      "compatiblePackages": [
+        {
+          "packageName": "com.cricbuzz.android",
+          "name": "Cricbuzz",
+          "description": null,
+          "apkFileType": "APKM",
+          "appIconColor": "#1B5E20",
+          "signatures": null,
+          "targets": [
+            {
+              "version": "16.02.05",
+              "isExperimental": false,
+              "minSdk": null,
+              "description": null
+            }
+          ]
+        }
+      ],
+      "options": []
+    },
+    {
+      "name": "Cricbuzz Premium",
+      "description": "Unlocks premium features like live streaming and premium articles.",
+      "default": true,
+      "dependencies": [],
+      "compatiblePackages": [
+        {
+          "packageName": "com.cricbuzz.android",
+          "name": "Cricbuzz",
+          "description": null,
+          "apkFileType": "APKM",
+          "appIconColor": "#1B5E20",
+          "signatures": null,
+          "targets": [
+            {
+              "version": "16.02.05",
+              "isExperimental": false,
+              "minSdk": null,
+              "description": null
+            }
+          ]
+        }
+      ],
+      "options": []
+    },
+    {
+      "name": "Disable analytics",
+      "description": "Blocks all analytics and tracking.",
+      "default": true,
+      "dependencies": [],
+      "compatiblePackages": [
+        {
+          "packageName": "org.telegram.plus",
+          "name": "Plus Messenger",
+          "description": null,
+          "apkFileType": null,
+          "appIconColor": "#2AABEE",
+          "signatures": null,
+          "targets": [
+            {
+              "version": "12.7.3.0",
+              "isExperimental": false,
+              "minSdk": null,
+              "description": null
+            }
+          ]
+        }
+      ],
+      "options": []
+    },
+    {
+      "name": "Disable auto update",
+      "description": "Disables automatic app update checks.",
+      "default": true,
+      "dependencies": [],
+      "compatiblePackages": [
+        {
+          "packageName": "org.telegram.plus",
+          "name": "Plus Messenger",
+          "description": null,
+          "apkFileType": null,
+          "appIconColor": "#2AABEE",
+          "signatures": null,
+          "targets": [
+            {
+              "version": "12.7.3.0",
+              "isExperimental": false,
+              "minSdk": null,
+              "description": null
+            }
+          ]
+        }
+      ],
+      "options": []
+    },
+    {
       "name": "Disable auto update",
       "description": "Disables automatic app update checks.",
       "default": true,
@@ -216,7 +441,7 @@
           "signatures": null,
           "targets": [
             {
-              "version": "5.17.72.0",
+              "version": "5.18.46.0",
               "isExperimental": false,
               "minSdk": null,
               "description": null
@@ -441,7 +666,7 @@
           "signatures": null,
           "targets": [
             {
-              "version": "12.11.9",
+              "version": "12.12.0",
               "isExperimental": false,
               "minSdk": null,
               "description": null
@@ -628,6 +853,31 @@
     },
     {
       "name": "Hide typing indicator",
+      "description": "Prevents typing status from being sent to other users.",
+      "default": true,
+      "dependencies": [],
+      "compatiblePackages": [
+        {
+          "packageName": "org.telegram.plus",
+          "name": "Plus Messenger",
+          "description": null,
+          "apkFileType": null,
+          "appIconColor": "#2AABEE",
+          "signatures": null,
+          "targets": [
+            {
+              "version": "12.7.3.0",
+              "isExperimental": false,
+              "minSdk": null,
+              "description": null
+            }
+          ]
+        }
+      ],
+      "options": []
+    },
+    {
+      "name": "Hide typing indicator",
       "description": "Hides your typing indicator from other users.",
       "default": true,
       "dependencies": [],
@@ -752,6 +1002,31 @@
       "options": []
     },
     {
+      "name": "Plus Premium",
+      "description": "Unlocks premium feature UI and shows premium badge on self only.",
+      "default": true,
+      "dependencies": [],
+      "compatiblePackages": [
+        {
+          "packageName": "org.telegram.plus",
+          "name": "Plus Messenger",
+          "description": null,
+          "apkFileType": null,
+          "appIconColor": "#2AABEE",
+          "signatures": null,
+          "targets": [
+            {
+              "version": "12.7.3.0",
+              "isExperimental": false,
+              "minSdk": null,
+              "description": null
+            }
+          ]
+        }
+      ],
+      "options": []
+    },
+    {
       "name": "Premium unlock",
       "description": "Unlocks premium UI features, removes subscription nudges, and enables downloads.",
       "default": true,
@@ -791,7 +1066,7 @@
           "signatures": null,
           "targets": [
             {
-              "version": "5.17.72.0",
+              "version": "5.18.46.0",
               "isExperimental": false,
               "minSdk": null,
               "description": null
@@ -817,6 +1092,31 @@
           "targets": [
             {
               "version": "26.04.27.10",
+              "isExperimental": false,
+              "minSdk": null,
+              "description": null
+            }
+          ]
+        }
+      ],
+      "options": []
+    },
+    {
+      "name": "Remove ads",
+      "description": "Removes all ads including Plus banner ads and Telegram sponsored messages.",
+      "default": true,
+      "dependencies": [],
+      "compatiblePackages": [
+        {
+          "packageName": "org.telegram.plus",
+          "name": "Plus Messenger",
+          "description": null,
+          "apkFileType": null,
+          "appIconColor": "#2AABEE",
+          "signatures": null,
+          "targets": [
+            {
+              "version": "12.7.3.0",
               "isExperimental": false,
               "minSdk": null,
               "description": null
@@ -948,6 +1248,31 @@
           "targets": [
             {
               "version": "8.0.6.1",
+              "isExperimental": false,
+              "minSdk": null,
+              "description": null
+            }
+          ]
+        }
+      ],
+      "options": []
+    },
+    {
+      "name": "TrackIt Premium",
+      "description": "Unlocks premium features.",
+      "default": true,
+      "dependencies": [],
+      "compatiblePackages": [
+        {
+          "packageName": "app.vinztech.trackit",
+          "name": "TrackIt",
+          "description": null,
+          "apkFileType": "XAPK",
+          "appIconColor": "#4CAF50",
+          "signatures": null,
+          "targets": [
+            {
+              "version": "1.5.5",
               "isExperimental": false,
               "minSdk": null,
               "description": null

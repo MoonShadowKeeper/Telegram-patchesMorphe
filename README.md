@@ -17,7 +17,31 @@ Custom [Morphe](https://morphe.software) patches for unlocking premium features 
 ## Patches
 
 <!-- PATCHES_START EXPANDED -->
-> **[v1.17.0](https://github.com/Paresh-Maheshwari/paresh-patches/releases/tag/v1.17.0)**&nbsp;&nbsp;•&nbsp;&nbsp;`main`&nbsp;&nbsp;•&nbsp;&nbsp;42 patches total
+> **[v1.18.0-dev.5](https://github.com/Paresh-Maheshwari/paresh-patches/releases/tag/v1.18.0-dev.5)**&nbsp;&nbsp;•&nbsp;&nbsp;`dev`&nbsp;&nbsp;•&nbsp;&nbsp;55 patches total
+<details open>
+<summary>📦 Plus Messenger&nbsp;&nbsp;•&nbsp;&nbsp;10 patches</summary>
+<br>
+
+**🎯 Supported versions:**
+
+| 12.7.3.0 |
+| :---: |
+
+| 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
+|----------|----------------|-----------|
+| [Anti-delete messages](#anti-delete-messages) | Prevents deleted messages from being removed locally. |  |
+| [Anti-disappearing media](#anti-disappearing-media) | Keeps view-once and self-destructing media viewable forever. |  |
+| [Anti-screenshot notification](#anti-screenshot-notification) | Blocks screenshot notifications from being sent to the other user. |  |
+| [Bypass channel restrictions](#bypass-channel-restrictions) | Allows copying text, saving media, and opening blocked channels. Forwarding is server-side blocked and won't work. |  |
+| [Bypass integrity](#bypass-integrity) | Bypasses integrity check to allow login on patched app. |  |
+| [Disable analytics](#disable-analytics) | Blocks all analytics and tracking. |  |
+| [Disable auto update](#disable-auto-update) | Disables automatic app update checks. |  |
+| [Hide typing indicator](#hide-typing-indicator) | Prevents typing status from being sent to other users. |  |
+| [Plus Premium](#plus-premium) | Unlocks premium feature UI and shows premium badge on self only. |  |
+| [Remove ads](#remove-ads) | Removes all ads including Plus banner ads and Telegram sponsored messages. |  |
+
+</details>
+
 <details open>
 <summary>📦 Telegram&nbsp;&nbsp;•&nbsp;&nbsp;10 patches</summary>
 <br>
@@ -79,12 +103,28 @@ Custom [Morphe](https://morphe.software) patches for unlocking premium features 
 </details>
 
 <details open>
+<summary>📦 Cricbuzz&nbsp;&nbsp;•&nbsp;&nbsp;2 patches</summary>
+<br>
+
+**🎯 Supported versions:**
+
+| 16.02.05 |
+| :---: |
+
+| 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
+|----------|----------------|-----------|
+| [Cricbuzz Disable Ads](#cricbuzz-disable-ads) | Removes all ads including banner, interstitial, video, and app open ads. |  |
+| [Cricbuzz Premium](#cricbuzz-premium) | Unlocks premium features like live streaming and premium articles. |  |
+
+</details>
+
+<details open>
 <summary>📦 Proton VPN&nbsp;&nbsp;•&nbsp;&nbsp;2 patches</summary>
 <br>
 
 **🎯 Supported versions:**
 
-| 5.17.72.0 |
+| 5.18.46.0 |
 | :---: |
 
 | 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
@@ -154,7 +194,7 @@ Custom [Morphe](https://morphe.software) patches for unlocking premium features 
 
 **🎯 Supported versions:**
 
-| 12.11.9 |
+| 12.12.0 |
 | :---: |
 
 | 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
@@ -250,6 +290,21 @@ Custom [Morphe](https://morphe.software) patches for unlocking premium features 
 | 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
 |----------|----------------|-----------|
 | [TickTick Premium](#ticktick-premium) | Unlocks premium features, removes limits, and enables AI tools. |  |
+
+</details>
+
+<details open>
+<summary>📦 TrackIt&nbsp;&nbsp;•&nbsp;&nbsp;1 patch</summary>
+<br>
+
+**🎯 Supported versions:**
+
+| 1.5.5 |
+| :---: |
+
+| 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
+|----------|----------------|-----------|
+| [TrackIt Premium](#trackit-premium) | Unlocks premium features. |  |
 
 </details>
 

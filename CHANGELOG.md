@@ -1,3 +1,43 @@
+# [1.18.0-dev.5](https://gitlab.com/Paresh-Maheshwari/paresh-patches/compare/v1.18.0-dev.4...v1.18.0-dev.5) (2026-06-03)
+
+
+### Features
+
+* add Plus Messenger patches (org.telegram.plus v12.7.3.0) ([4aeb9fb](https://gitlab.com/Paresh-Maheshwari/paresh-patches/commit/4aeb9fb71ca45cb5d6ef5434ecb53b8977f06d8c))
+
+# [1.18.0-dev.4](https://gitlab.com/Paresh-Maheshwari/paresh-patches/compare/v1.18.0-dev.3...v1.18.0-dev.4) (2026-05-31)
+
+
+### Features
+
+* add Cricbuzz 16.02.05 patches (premium unlock + ad removal) ([0f6c858](https://gitlab.com/Paresh-Maheshwari/paresh-patches/commit/0f6c858ea5e2f42b4a9d0531eeb1d4fa995ca04b))
+
+# [1.18.0-dev.3](https://gitlab.com/Paresh-Maheshwari/paresh-patches/compare/v1.18.0-dev.2...v1.18.0-dev.3) (2026-05-31)
+
+
+### Features
+
+* upgrade Proton VPN patch to v5.18.46.0 ([ad8a8f1](https://gitlab.com/Paresh-Maheshwari/paresh-patches/commit/ad8a8f107dcada3928fb1a1d9487b3842c9a2dd2))
+
+# [1.18.0-dev.2](https://gitlab.com/Paresh-Maheshwari/paresh-patches/compare/v1.18.0-dev.1...v1.18.0-dev.2) (2026-05-31)
+
+
+### Features
+
+* upgrade Fing patch to v12.12.0 ([94011fb](https://gitlab.com/Paresh-Maheshwari/paresh-patches/commit/94011fbc7397bcf568df91efac4dab8eb9f3bff2))
+
+# [1.18.0-dev.1](https://gitlab.com/Paresh-Maheshwari/paresh-patches/compare/v1.17.0...v1.18.0-dev.1) (2026-05-31)
+
+
+### Bug Fixes
+
+* fetch dev branch in CI for backmerge plugin ([7ff2277](https://gitlab.com/Paresh-Maheshwari/paresh-patches/commit/7ff2277e72785826708818761703b113cece5065))
+
+
+### Features
+
+* add trackit premium patch ([09f9de2](https://gitlab.com/Paresh-Maheshwari/paresh-patches/commit/09f9de2ec8f9d552782511bd5c5c7be18c0f224c))
+
 # [1.17.0](https://gitlab.com/Paresh-Maheshwari/paresh-patches/compare/v1.16.0...v1.17.0) (2026-05-29)
 
 

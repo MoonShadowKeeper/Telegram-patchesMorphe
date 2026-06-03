@@ -12,9 +12,12 @@ val fingPremiumPatch = bytecodePatch(
     compatibleWith(COMPATIBILITY_FING)
 
     execute {
-        // Return PREMIUM tier enum constant
+        // Use the method's declared return type as the enum type (handles re-obfuscation)
+        val enumType = GetSubscriptionTierFingerprint.method.returnType
+
+        // Return PREMIUM tier enum constant (field c = ordinal 2)
         GetSubscriptionTierFingerprint.method.addInstructions(0, """
-            sget-object v0, Lfm/r;->c:Lfm/r;
+            sget-object v0, ${enumType}->c:${enumType}
             return-object v0
         """)
 
