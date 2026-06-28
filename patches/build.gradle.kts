@@ -1,13 +1,13 @@
-group = "app.paresh"
+group = "app.moonshadow"
 
 patches {
     about {
-        name = "Paresh Patches"
-        description = "Patches by Paresh"
-        source = "https://github.com/Paresh-Maheshwari/paresh-patches"
-        author = "Paresh"
-        contact = "https://github.com/Paresh-Maheshwari/paresh-patches/issues"
-        website = "https://github.com/Paresh-Maheshwari/paresh-patches"
+        name = "Telegram Patches"
+        description = "Telegram patches for Morphe Manager by MoonShadowKeeper"
+        source = "https://github.com/MoonShadowKeeper/Telegram-patchesMorphe"
+        author = "MoonShadowKeeper"
+        contact = "https://github.com/MoonShadowKeeper/Telegram-patchesMorphe/issues"
+        website = "https://github.com/MoonShadowKeeper/Telegram-patchesMorphe"
         license = "GPLv3"
     }
 }
